@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gin/internal/handler"
+	"github.com/imsugeno/gin/internal/handler"
 )
 
 func main() {
