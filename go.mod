@@ -1,4 +1,4 @@
-module github.com/imsugeno/gin
+module gin
 
 go 1.16
 
